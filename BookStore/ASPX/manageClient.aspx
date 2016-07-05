@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="manageClient.aspx.cs" Inherits="ASPX_manageClient" %>

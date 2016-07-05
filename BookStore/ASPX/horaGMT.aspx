@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="horaGMT.aspx.cs" Inherits="ASPX_horaGMT" %>

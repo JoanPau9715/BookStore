@@ -1,0 +1,221 @@
+﻿body 
+{
+   font-family: 'MS Sans Serif';
+   font-size:smaller;    
+   background-color:#fbfbfc;
+}
+
+.divtop
+{
+    width: 100%;
+    height:84px;
+	padding:0;
+	margin:0;
+	background-color:#000;
+}
+
+.divresize
+{
+	margin:0 auto;
+	padding:3px 0 0 0;
+    width:970px;
+}
+
+.divimglogo
+{
+	margin:0 auto;
+	padding:0;
+    width:274px;	
+}
+
+.etqwelcome
+{
+    color: #0978b3;
+    float:left;
+    margin-top: 8px;
+    margin-left: 18px;
+}
+
+.divmenu
+{
+    width: 100%;
+    margin: 0 auto;
+    height:46px;
+    background-color: #fbfbfc;
+}
+
+.divinsidemenu
+{
+	margin:0 auto;
+	padding:0px 0px 0px 0px;
+    width:1000px;    
+    height:88%;
+    border: thin dashed #C0C0C0;        
+    border-radius:7px;    
+}
+
+.divcabecera
+{
+    width: 50%;
+    float:left;
+    height:24px;
+    margin: 4px 4px 4px 4px;
+}
+
+.divoutsidemarco
+{
+    width:100%;
+    margin: 0 auto;
+    background-color: #fbfbfc;    
+}
+
+.divmarco
+{
+    border: thin dashed #C0C0C0;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #fbfbfc;
+    height: 640px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;    
+}
+
+.divcontenido
+{
+    width: 74%;
+    margin: 4px 4px 4px 4px;
+    float:left;
+    background-color: #fbfbfc;
+    height:628px;
+    border-radius:7px;
+    overflow:hidden;
+}
+
+.divlateral
+{
+    width: 24%;
+    margin: 4px 4px 4px 4px;    
+    float:left;
+    background-color: #fbfbfc;
+    height:628px;
+    border-radius:7px;
+    overflow:hidden;
+    border-left:thin dashed #C0C0C0;
+}
+
+.divsregistro
+{
+     margin:40px 0px 0px 50px;  
+     float:left;
+     overflow:hidden;
+}
+
+.divlogeo
+{
+     border:thin dashed #C0C0C0;
+     margin:40px 0px 0px 40px;  
+     float:left;
+}
+
+#divolvido
+{
+     margin:40px 0px 0px 40px;  
+     float:left;    
+     width:600px;
+}
+
+.divloader
+{
+     border: none;
+     margin:40px 0px 0px 40px;  
+     float:left;
+}
+
+.divtipi
+{
+     margin:40px 0px 0px 40px;  
+     float:right;
+     height:100px;
+}
+
+.divenvio
+{
+     margin:40px 0px 0px 40px;  
+     float:left;
+     width:100%;  
+     overflow:hidden;  
+}
+
+.etqs 
+{
+    float: left;
+    margin-left: 10px;
+    width: 90px;
+}
+
+.etqsno
+{
+    background-color: #fcf9de;
+    color: #000;
+    visibility:hidden;
+}
+
+.etqsnologin
+{
+    background-color: #fcf9de;
+    color: #000;
+    margin-left:20px;
+}
+
+.edits 
+{
+    margin-left: 5px;
+    width: 125px;
+    margin-right:10px;
+}
+
+.botones
+{
+    border-width:thin;
+    border-style:outset;
+    cursor:pointer;
+    float:left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.loader
+{
+    float:right;
+    visibility:hidden;
+}
+
+.opcionesInfo
+{
+    color: #07608F;
+}
+
+.uploader
+{
+    border: thin solid #000000;
+    font-family: 'ms sans Serif';
+    color: #000000;
+}
+
+.tipi
+{
+    display:none;
+    float:left;
+    margin-right:80px;
+}
+
+.tipaviso
+{
+    display:none;
+    float: left;
+    margin-left: -260px;
+    padding-top:20px;
+}
+
